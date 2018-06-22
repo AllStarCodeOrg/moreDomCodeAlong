@@ -1,0 +1,15 @@
+body{
+    margin:0;
+}
+
+.main-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+img{
+    width:300px;
+}
